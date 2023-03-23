@@ -12,4 +12,5 @@
    protected onLoad(){} cocoscreator的生命周期函数<br />
    private aaa(){}  需要被编辑器中的按钮绑定的方法<br />
    private _aaa(){}  本脚本才会使用到的变量名或者方法<br />
+   测试上传
    
